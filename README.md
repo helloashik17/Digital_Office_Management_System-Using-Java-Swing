@@ -1,0 +1,2 @@
+# DigitalOfficeManagementSystem
+This project includes two panels. One is the admin panel, and the other is the employee panel. Admins can add, delete, and update employee information, as well as calculate monthly allowances and deductions for employees. They can also post various events. The payroll system for employees is also controlled by the admins. Employee attendance and leave systems are also managed in this project. Employees are logged onto their panel during work hours. They can see the events posted by the admins in their panel, as well as change their profile.
